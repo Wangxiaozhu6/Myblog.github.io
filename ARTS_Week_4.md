@@ -1,7 +1,7 @@
 # Algorithm
 ## 1.Unique Character in a String
 
-**Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
+*Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
 ```
 Examples:
 s = "leetcode"
@@ -34,7 +34,7 @@ public:
 //将数量为26空间大小整形容器用来放置每一个来输入的字符，一次遍历放置字符并用count函数进行计数；再用一次遍历来统计词频只有一次的字符即是First Unique Character in a String。
 ```
 
-**根据提示使用哈希映射
+*根据提示使用哈希映射
 遍历一遍字符串记录每个字母出现的次数
 遍历hashmap，找出第一个出现次数只有一次的字符
 ```c++
@@ -53,7 +53,7 @@ public:
 ```
 ## 2.反转字符串
 
-**Write a function that reverses a string. The input string is given as an array of characters char[].
+*Write a function that reverses a string. The input string is given as an array of characters char[].
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 You may assume all the characters consist of printable ascii characters.
 ```
@@ -86,4 +86,8 @@ public:
 # Share
 
 # Tip
+**今天在Leetcode刷提时显现的错误解决方案。 
 
+error:control reaches end of non-void function[-Werror=return-type]
+问题场景描述：leetcode刷题时遇到这类报错，代码没问题，可就是编译不通过，很是怀疑人生。
+问题解决：在函数的最后添加一条return语句，只要返回的数据类型对即可！记住，一定要返回，虽然永远也用不上。
