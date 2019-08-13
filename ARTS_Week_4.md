@@ -227,7 +227,8 @@ public:
 tolower(char c):把字母字符转换成小写,非字母字符不做出处理。
 ```
 # Review
-[Can We Really Trust Digital Banks?](https://onezero.medium.com/how-much-can-we-really-trust-digital-banks-7f4a4416a48e)
+[Can We Really Trust Digital Banks?](https://onezero.medium.com/how-much-can-we-really-trust-digital-banks-7f4a4416a48e)    
+这篇文章，没啥营养。更像是一片自媒体的无厘头论述，还不如六级或考研一篇阅读来的好。针对快速发展的数字银行，在享受其带来的快捷、方便的同时，用户的PIN码被泄露了从来引发的举例讨论。从丑闻比较少的MONZO到22，最终针对数字银行再次扩张而表示了个人的担忧，但所有的问题到现在都是unanswerable，看的我也是云里雾里，头皮发麻。
 # Share
 
 # Tip
