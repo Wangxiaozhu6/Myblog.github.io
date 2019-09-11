@@ -69,3 +69,5 @@ public:
 [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 
 # Share
+《小狗钱钱》国外儿童商财指定读本，可悲的我到了第二个本命年才接触到，受益颇多。    
+种一棵树的最好时机是十年前，还有现在。！
