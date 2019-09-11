@@ -14,7 +14,6 @@ Output: -1
 Clarification:
 What should we return when needle is an empty string? This is a great question to ask during an interview.
 For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf().
-
 ```
 
 ```c++
@@ -30,6 +29,8 @@ public:
     }
 };
 //BF算法 暴力破解:时间复杂度O(M*N)O(M∗N)
+```
+
 ```c++
 class Solution {
 public:
