@@ -60,7 +60,7 @@ public:
 //还有典型的KMP解法，由于知识点还没覆盖到；等待有时间而刷的时候后头过来看。
 ```
 # Tips
-
+[matlab2c使用c++实现matlab函数系列教程-conv函数](https://blog.csdn.net/luanpeng825485697/article/details/77686595?tdsourcetag=s_pcqq_aiomsg)
 # Review
 [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 
