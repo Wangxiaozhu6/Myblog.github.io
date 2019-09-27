@@ -18,5 +18,5 @@ MSComm控件通过串行端口传输和接受数据的，为应用程序提供�
 2.查询法
        查询方式实质上还是事件驱动。但在有些情况下，这种方式显得更为便捷。在程序的每个关键功能之后，可以通过检查 CommEvent 属性的值来查询事件和错误。如果应用程序较小，并且是自保持的，这种方法可能是更可取的。
 ```
-属性：[mscomm在vs中如何实现串口通信](https://blog.csdn.net/qq_41498261/article/details/83012466)贴上来。
-二.即是MFc的运行机制。这个问题提出来了，但并未解决。
+属性：[mscomm在vs中如何实现串口通信](https://blog.csdn.net/qq_41498261/article/details/83012466)贴上来。      
+二.即是MFc的运行机制。这个问题提出来了，解决一半、还需深入。[MFc运行机制](https://blog.csdn.net/icelolipop/article/details/18883345)
